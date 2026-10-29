@@ -122,8 +122,6 @@ Este projeto é uma prática introdutória: combina uma lista com um menu repeti
 
 ---
 
-<div align="center">
-👩‍💻 Autoria
-Feito por Beatris Antunes Silva durante o Bootcamp de Análise de Dados da Generation Brasil.
+## 👩💻 Autoria
 
-</div>
+Feito por **Beatris Antunes Silva** durante o **Bootcamp de Análise de Dados da Generation Brasil**.
